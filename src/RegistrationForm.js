@@ -6,7 +6,7 @@ function RegistrationForm() {
   return (
     <div className="row">
       <div className="col-md-6 offset-md-3">
-        <h1 className="mb-3 text-center text-info">Registration Form</h1>
+        <h1 className="mb-3 text-center text-danger">Registration Form</h1>
         <Form>
           <div className="form-group">
             <label htmlFor="username">
